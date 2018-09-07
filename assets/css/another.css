@@ -1,0 +1,67 @@
+header{
+    background: white;
+    
+    height: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-top: 1px solid;
+  border-color: black
+  border
+}
+
+#top{
+    align-content: center;
+    max-width: 960px;
+    margin: auto;
+    clear: both;
+}
+
+.Title{
+    padding: 20px 20px 20px 20px;
+    border-bottom: solid;
+    border-color: black;
+}
+img{
+    float: left;
+    padding: 0 10px 20px 10px;
+}
+#navi {
+    float:right;
+    margin-left: 50px;
+    margin-top: 10px;
+    padding-top: 40px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.MyName {
+    padding: 10px 0 10px 0;
+    float:left;
+    background: #4aaaa5;
+    padding-top: 20px
+     
+}
+#main{
+    
+    margin: 0 0 0 0;
+    padding: 100px 0 100px 0;
+    overflow: auto;
+    clear: both;
+}
+
+#content{
+    width: 960px;
+    background-color: white;
+    margin: auto;
+    overflow: auto;
+    clear: both;
+}
+ footer{
+     background: grey;
+     height: 60px;
+ }
+
+
+     
+ 
